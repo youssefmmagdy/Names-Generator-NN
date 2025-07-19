@@ -129,8 +129,3 @@ Linear             : (32, 27)
 
 This project was built as an experiment in character-level language modeling using deep learning.
 
----
-
-## 📜 License
-
-MIT License – free to use, share, and build upon.
